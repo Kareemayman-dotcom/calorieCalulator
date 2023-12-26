@@ -9,6 +9,11 @@
       "calorieCalulator/1.0.0": {
         "runtime": {
           "calorieCalulator.dll": {}
+        },
+        "resources": {
+          "aa/calorieCalulator.resources.dll": {
+            "locale": "aa"
+          }
         }
       }
     }

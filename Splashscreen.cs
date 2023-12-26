@@ -58,16 +58,24 @@ namespace calorieCalulator
         private void AnimationTimer_Tick(object sender, EventArgs e)
         {
             // Update the progress bar width
-            progressBarWidth += 5; // Adjust the value based on your desired animation speed
+            progressBarWidth += 10; // Adjust the value based on your desired animation speed
 
             // Check if the progress bar is at its maximum width
             if (progressBarWidth >= progressBarBackground.Width)
             {
                         animationTimer.Stop();
 
-                Form2 form2 = new Form2();
-                this.Hide();
-                form2.ShowDialog();
+                if (GlobalVariables.person == null)
+                {
+                    Weightscreen wieghtScreen = new Weightscreen();
+                    this.Hide();
+                    wieghtScreen.ShowDialog();
+                }
+                else {
+                    Dailyscreen dailyscreen = new Dailyscreen();
+                    this.Hide();
+                    dailyscreen.ShowDialog();
+                }
             }
 
             // Update the width of the progress bar

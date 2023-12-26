@@ -14,9 +14,11 @@ C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\ref
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.pdb
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.genruntimeconfig.cache
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\ref\calorieCalulator.dll
-C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.Form2.resources
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.Splashscreen.resources
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\bin\Debug\net8.0-windows\Resources\superherosound.wav
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\bin\Debug\net8.0-windows\aa\calorieCalulator.resources.dll
-C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.Form2.aa.resources
 C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\aa\calorieCalulator.resources.dll
+C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.sourcelink.json
+C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.Dailyscreen.resources
+C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.Weightscreen.resources
+C:\Users\Kareem Ayman\source\repos\calorieCalulator\obj\Debug\net8.0-windows\calorieCalulator.Weightscreen.aa.resources
